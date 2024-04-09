@@ -1,5 +1,12 @@
 [
     {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f3-1f1ec.svg",
+        "country": "Nigeria",
+        "code": "ng",
+        "phoneCode": 234,
+        "icon": "🇳🇬"
+    },
+    {
         "flag": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1f4.svg",
         "country": "Angola",
         "code": "an",
@@ -229,13 +236,6 @@
         "code": "ne",
         "phoneCode": 227,
         "icon": "🇳🇪"
-    },
-    {
-        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f3-1f1ec.svg",
-        "country": "Nigeria",
-        "code": "ng",
-        "phoneCode": 234,
-        "icon": "🇳🇬"
     },
     {
         "flag": "https://twemoji.maxcdn.com/2/svg/1f1f7-1f1fc.svg",
