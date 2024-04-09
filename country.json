@@ -1,0 +1,296 @@
+[
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f3-1f1ec.svg",
+        "country": "Nigeria",
+        "code": "ng",
+        "phoneCode": 234
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1f4.svg",
+        "country": "Angola",
+        "code": "an",
+        "phoneCode": 244
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ef.svg",
+        "country": "Benin",
+        "code": "bj",
+        "phoneCode": 229
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1fc.svg",
+        "country": "Botswana",
+        "code": "bw",
+        "phoneCode": 267
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1eb.svg",
+        "country": "Burkina Faso",
+        "code": "bf",
+        "phoneCode": 226
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ee.svg",
+        "country": "Burundi",
+        "code": "bi",
+        "phoneCode": 257
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f2.svg",
+        "country": "Cameroon",
+        "code": "cm",
+        "phoneCode": 237
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1eb.svg",
+        "country": "Central African Republic",
+        "code": "cf",
+        "phoneCode": 236
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ff.svg",
+        "country": "Algeria",
+        "code": "dz",
+        "phoneCode": 213
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f9-1f1e9.svg",
+        "country": "Chad",
+        "code": "td",
+        "phoneCode": 235
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f0-1f1f2.svg",
+        "country": "Comoros",
+        "code": "km",
+        "phoneCode": 269
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ef.svg",
+        "country": "Djibouti",
+        "code": "dj",
+        "phoneCode": 253
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1ec.svg",
+        "country": "Egypt",
+        "code": "eg",
+        "phoneCode": 20
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f6.svg",
+        "country": "Equatorial Guinea",
+        "code": "gq",
+        "phoneCode": 240
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1f7.svg",
+        "country": "Eritrea",
+        "code": "er",
+        "phoneCode": 291
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1f9.svg",
+        "country": "Ethiopia",
+        "code": "et",
+        "phoneCode": 251
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e6.svg",
+        "country": "Gabon",
+        "code": "ga",
+        "phoneCode": 241
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1ed.svg",
+        "country": "Ghana",
+        "code": "gh",
+        "phoneCode": 233
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f2.svg",
+        "country": "Gambia",
+        "code": "gm",
+        "phoneCode": 220
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f3.svg",
+        "country": "Guinea",
+        "code": "gn",
+        "phoneCode": 224
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1fc.svg",
+        "country": "Guinea-Bissau",
+        "code": "gw",
+        "phoneCode": 245
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f0-1f1ea.svg",
+        "country": "Kenya",
+        "code": "ke",
+        "phoneCode": 254
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f1-1f1f8.svg",
+        "country": "Lesotho",
+        "code": "ls",
+        "phoneCode": 266
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f1-1f1f7.svg",
+        "country": "Liberia",
+        "code": "lr",
+        "phoneCode": 231
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f1-1f1fe.svg",
+        "country": "Libya",
+        "code": "ly",
+        "phoneCode": 218
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f2-1f1ec.svg",
+        "country": "Madagascar",
+        "code": "mg",
+        "phoneCode": 261
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f2-1f1fc.svg",
+        "country": "Malawi",
+        "code": "mw",
+        "phoneCode": 265
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f2-1f1f1.svg",
+        "country": "Mali",
+        "code": "ml",
+        "phoneCode": 223
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f2-1f1f7.svg",
+        "country": "Mauritania",
+        "code": "mr",
+        "phoneCode": 222
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f2-1f1fa.svg",
+        "country": "Mauritius",
+        "code": "mu",
+        "phoneCode": 230
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f2-1f1e6.svg",
+        "country": "Morocco",
+        "code": "ma",
+        "phoneCode": 212
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f2-1f1ff.svg",
+        "country": "Mozambique",
+        "code": "mz",
+        "phoneCode": 258
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f3-1f1e6.svg",
+        "country": "Namibia",
+        "code": "na",
+        "phoneCode": 264
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f3-1f1ea.svg",
+        "country": "Niger",
+        "code": "ne",
+        "phoneCode": 227
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f7-1f1fc.svg",
+        "country": "Rwanda",
+        "code": "rw",
+        "phoneCode": 250
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f3.svg",
+        "country": "Senegal",
+        "code": "sn",
+        "phoneCode": 221
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1e8.svg",
+        "country": "Seychelles",
+        "code": "sc",
+        "phoneCode": 248
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f1.svg",
+        "country": "Sierra Leone",
+        "code": "sl",
+        "phoneCode": 232
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f4.svg",
+        "country": "Somalia",
+        "code": "so",
+        "phoneCode": 252
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ff-1f1e6.svg",
+        "country": "South Africa",
+        "code": "za",
+        "phoneCode": 27
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f8.svg",
+        "country": "South Sudan",
+        "code": "ss",
+        "phoneCode": 211
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1e9.svg",
+        "country": "Sudan",
+        "code": "sd",
+        "phoneCode": 249
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1ff.svg",
+        "country": "Eswatini",
+        "code": "sz",
+        "phoneCode": 268
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f9-1f1ff.svg",
+        "country": "Tanzania",
+        "code": "tz",
+        "phoneCode": 255
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f9-1f1ec.svg",
+        "country": "Togo",
+        "code": "tg",
+        "phoneCode": 228
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f9-1f1f3.svg",
+        "country": "Tunisia",
+        "code": "tn",
+        "phoneCode": 216
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1fa-1f1ec.svg",
+        "country": "Uganda",
+        "code": "ug",
+        "phoneCode": 256
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ff-1f1f2.svg",
+        "country": "Zambia",
+        "code": "zm",
+        "phoneCode": 260
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ff-1f1fc.svg",
+        "country": "Zimbabwe",
+        "code": "zw",
+        "phoneCode": 263
+    }
+]
