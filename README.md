@@ -1,1 +1,1 @@
-# Africa-Country-JSON
+# Country-JSON
